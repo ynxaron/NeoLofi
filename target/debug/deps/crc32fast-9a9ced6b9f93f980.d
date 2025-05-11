@@ -1,0 +1,12 @@
+/home/nyx/Codes/neolofi/target/debug/deps/libcrc32fast-9a9ced6b9f93f980.rmeta: /home/nyx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/lib.rs /home/nyx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/baseline.rs /home/nyx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/combine.rs /home/nyx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/specialized/mod.rs /home/nyx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/table.rs /home/nyx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/specialized/pclmulqdq.rs
+
+/home/nyx/Codes/neolofi/target/debug/deps/libcrc32fast-9a9ced6b9f93f980.rlib: /home/nyx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/lib.rs /home/nyx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/baseline.rs /home/nyx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/combine.rs /home/nyx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/specialized/mod.rs /home/nyx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/table.rs /home/nyx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/specialized/pclmulqdq.rs
+
+/home/nyx/Codes/neolofi/target/debug/deps/crc32fast-9a9ced6b9f93f980.d: /home/nyx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/lib.rs /home/nyx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/baseline.rs /home/nyx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/combine.rs /home/nyx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/specialized/mod.rs /home/nyx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/table.rs /home/nyx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/specialized/pclmulqdq.rs
+
+/home/nyx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/lib.rs:
+/home/nyx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/baseline.rs:
+/home/nyx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/combine.rs:
+/home/nyx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/specialized/mod.rs:
+/home/nyx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/table.rs:
+/home/nyx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/specialized/pclmulqdq.rs:

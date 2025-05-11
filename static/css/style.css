@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    background: #111;
+    color: white;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+#container {
+    text-align: center;
+}
+
+img {
+    width: 60vmin;
+    border-radius: 1rem;
+    box-shadow: 0 0 30px rgba(255, 255, 255, 0.1);
+}
+
+button {
+    background: #222;
+    color: white;
+    border: none;
+    padding: 1em;
+    margin: 0.5em;
+    border-radius: 0.5em;
+    cursor: pointer;
+    font-size: 1.5em;
+    transition: background 0.3s;
+}
+
+button:hover {
+    background: #444;
+}
+
+#play-pause {
+    font-size: 2.5em;
+    margin-top: 1em;
+}
+
+#mood-picker {
+    margin-top: 2em;
+}
